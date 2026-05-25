@@ -9,7 +9,7 @@ Welcome to the data science section of my portfolio. This space is dedicated to 
 
 A comprehensive statistical audit evaluating consumer brand awareness lift following a targeted YouTube advertising campaign. The analysis segments audience data by age demographics to isolate exact variance factors and prevent skewed marketing budget allocations.
 
-### 📈 Core Data Science & Marketing Insights
+### Core Data Science & Marketing Insights
 * **Hypothesis Testing & Z-Score Formula:** Conducted two-tailed Z-tests to validate whether observed brand awareness lifts were statistically significant or driven by random sampling noise. Leveraged the standardized error variance equation:
   $$z = \frac{p_{T} - p_{C}}{\sqrt{p(1-p)(\frac{1}{n_{T}} + \frac{1}{n_{C}})}}$$
 * **Demographic Segmentation Matrix:** Dissected the total experimental volume ($N = 4,000$ respondents) into specialized test groups to evaluate localized lifts:
